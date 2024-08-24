@@ -4,7 +4,7 @@ I build the systems that power video at [Hudl](https://www.hudl.com/), from arch
 &nbsp;
 
 ### ✨ Languages & Frameworks
-<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img hspace=10 alt="C#" title="C#" height=60 width=42 src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg"></a>
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img hspace=10 alt="C#" title="C#" height=60 width=42 src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"></a>
 <a href="https://dotnet.microsoft.com/" target="_blank"><img hspace=10 alt=".NET" title=".NET" height=60 width=42 src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg"></a>
 <a href="https://www.terraform.io/" target="_blank"><img hspace=10 alt="Terraform" title="Terraform" height=60 width=42 src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img hspace=10 alt="JavaScript" title="JavaScript" height=60 width=42  src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"></a>
