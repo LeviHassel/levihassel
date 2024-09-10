@@ -1,6 +1,6 @@
 ## Hey there, I'm Levi 👋
 
-I build the systems that power video at [Hudl](https://www.hudl.com/), from architecting scalable infrastructure in Terraform <a href="https://www.terraform.io/" target="_blank"><img alt="Terraform" title="Terraform" height=15 src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg"></a> to optimizing video processing in C#. Outside of work, I love learning about new technologies through side projects (currently Flutter <a href="https://flutter.dev/" target="_blank"><img alt="Flutter" title="Flutter" height=15 src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"></a>).\
+I build the systems that power video at [Hudl](https://www.hudl.com/), from architecting scalable infrastructure in Terraform <a href="https://www.terraform.io/" target="_blank"><img alt="Terraform" title="Terraform" height=15 src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg"></a> to optimizing video processing in C#. Outside of work, I love learning about new technologies through side projects (most recently a <a href="https://flutter.dev/" target="_blank"><img alt="Flutter" title="Flutter" height=15 src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"></a> [Flutter app for building smart Spotify playlists](https://github.com/LeviHassel/mystify-demo/blob/main/README.md)).\
 &nbsp;
 
 ### ✨ Languages & Frameworks
