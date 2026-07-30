@@ -5,32 +5,32 @@ I build the systems that power video at [Hudl](https://www.hudl.com/), from arch
 
 ### ✨ Languages & Frameworks
 <p>
-  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img hspace=10 alt="C#" title="C#" width=42 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img hspace=10 alt=".NET" title=".NET" width=42 src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg"></a>
-  <a href="https://www.terraform.io/" target="_blank"><img hspace=10 alt="Terraform" title="Terraform" width=42 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img hspace=10 alt="JavaScript" title="JavaScript" width=42  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img hspace=10 alt="TypeScript" title="TypeScript" width=42 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a>
-  <a href="https://dart.dev/" target="_blank"><img hspace=10 alt="Dart" title="Dart" width=42 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"></a>
-  <a href="https://www.python.org" target="_blank"><img hspace=10 alt="Python" title="Python" width=42 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
-  <a href="https://reactjs.org/" target="_blank"><img hspace=10 alt="React" title="React" width=42 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
-  <a href="https://nodejs.org" target="_blank"><img hspace=10 alt="Node.js" title="Node.js" width=42 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></a>
-  <a href="https://www.java.com" target="_blank"><img hspace=10 alt="Java" title="Java" width=42 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img align="left" hspace=10 alt="C#" title="C#" width=42 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img align="left" hspace=10 alt=".NET" title=".NET" width=42 src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg"></a>
+  <a href="https://www.terraform.io/" target="_blank"><img align="left" hspace=10 alt="Terraform" title="Terraform" width=42 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" hspace=10 alt="JavaScript" title="JavaScript" width=42  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" hspace=10 alt="TypeScript" title="TypeScript" width=42 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a>
+  <a href="https://dart.dev/" target="_blank"><img align="left" hspace=10 alt="Dart" title="Dart" width=42 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"></a>
+  <a href="https://www.python.org" target="_blank"><img align="left" hspace=10 alt="Python" title="Python" width=42 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
+  <a href="https://reactjs.org/" target="_blank"><img align="left" hspace=10 alt="React" title="React" width=42 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
+  <a href="https://nodejs.org" target="_blank"><img align="left" hspace=10 alt="Node.js" title="Node.js" width=42 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></a>
+  <a href="https://www.java.com" target="_blank"><img align="left" hspace=10 alt="Java" title="Java" width=42 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>&nbsp;
 </p>
 
 &nbsp;
 
 ### 🛠️ Tools
 <p>
-  <a href="https://aws.amazon.com/" target="_blank"><img hspace=10 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" title="AWS" width=42 /></a>
-  <a href="https://www.mongodb.com" target="_blank"><img hspace=10 alt="MongoDB" title="MongoDB" width=42 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img hspace=10 alt="SQL" title="SQL" width=42 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></a>
-  <a href="https://www.rabbitmq.com/" target="_blank"><img hspace=10 alt="RabbitMQ" title="RabbitMQ" width=42 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg"></a>
-  <a href="https://graphql.org/" target="_blank"><img hspace=10 alt="GraphQL" title="GraphQL" width=42 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg"></a>
-  <a href="https://www.ffmpeg.org/" target="_blank"><img hspace=10 alt="FFmpeg" title="FFmpeg" width=42 src="https://upload.wikimedia.org/wikipedia/commons/7/76/FFmpeg_icon.svg"></a>
-  <a href="https://www.sumologic.com/" target="_blank"><img hspace=10 alt="Sumo Logic" title="Sumo Logic" width=42 src="https://raw.githubusercontent.com/aegis-icons/aegis-icons/32b1806572446a4c1450347ce6026ab1b21f1bea/icons/1_Primary/SumoLogic.svg"></a>
-  <a href="https://www.docker.com" target="_blank"><img hspace=10 alt="Docker" title="Docker" width=42 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg"></a>
-  <a href="https://redis.io/" target="_blank"><img hspace=10 alt="Redis" title="Redis" width=42 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"></a>
-  <a href="https://firebase.google.com/" target="_blank"><img hspace=10 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="Firebase" title="Firebase" width=42 /></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img align="left" hspace=10 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" title="AWS" width=42 /></a>
+  <a href="https://www.mongodb.com" target="_blank"><img align="left" hspace=10 alt="MongoDB" title="MongoDB" width=42 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img align="left" hspace=10 alt="SQL" title="SQL" width=42 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></a>
+  <a href="https://www.rabbitmq.com/" target="_blank"><img align="left" hspace=10 alt="RabbitMQ" title="RabbitMQ" width=42 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg"></a>
+  <a href="https://graphql.org/" target="_blank"><img align="left" hspace=10 alt="GraphQL" title="GraphQL" width=42 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg"></a>
+  <a href="https://www.ffmpeg.org/" target="_blank"><img align="left" hspace=10 alt="FFmpeg" title="FFmpeg" width=42 src="https://upload.wikimedia.org/wikipedia/commons/7/76/FFmpeg_icon.svg"></a>
+  <a href="https://www.sumologic.com/" target="_blank"><img align="left" hspace=10 alt="Sumo Logic" title="Sumo Logic" width=42 src="https://raw.githubusercontent.com/aegis-icons/aegis-icons/32b1806572446a4c1450347ce6026ab1b21f1bea/icons/1_Primary/SumoLogic.svg"></a>
+  <a href="https://www.docker.com" target="_blank"><img align="left" hspace=10 alt="Docker" title="Docker" width=42 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg"></a>
+  <a href="https://redis.io/" target="_blank"><img align="left" hspace=10 alt="Redis" title="Redis" width=42 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"></a>
+  <a href="https://firebase.google.com/" target="_blank"><img align="left" hspace=10 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="Firebase" title="Firebase" width=42 /></a>&nbsp;
 </p>
 
 &nbsp;
